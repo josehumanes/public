@@ -111,14 +111,14 @@
   </url>
   
   <url>
-    <loc>https://example.com/categories/bat-facts/</loc>
-    <lastmod>2016-07-28T09:48:21+00:00</lastmod>
+    <loc>https://example.com/tags/bat-facts/</loc>
+    <lastmod>2016-06-07T15:25:44+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/bat-facts/</loc>
-    <lastmod>2016-06-07T15:25:44+00:00</lastmod>
+    <loc>https://example.com/categories/bat-facts/</loc>
+    <lastmod>2016-07-28T09:48:21+00:00</lastmod>
     <priority>0</priority>
   </url>
   
